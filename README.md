@@ -1,6 +1,6 @@
 # Unofficial IceCat builds for Windows x64 (Installer + Portable)
 ## Download
-[Current version: 60.6.1](https://github.com/muslayev/icecat-win64/releases)<br />
+[the latest release](https://github.com/muslayev/icecat-win64/releases/latest)<br />
 
 ### Sources
 [GNU FTP](https://ftp.gnu.org/gnu/gnuzilla)<br />
