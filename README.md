@@ -2,6 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/muslayev/icecat-win64/releases/latest" target="_blank"><img src="https://img.shields.io/github/release/muslayev/icecat-win64.svg"></a>
+  <a href="https://github.com/muslayev/icecat-win64/releases/latest" target="_blank"><img src="https://img.shields.io/github/downloads/muslayev/icecat-win64/latest/total.svg"></a>
   <a href="https://github.com/muslayev/icecat-win64/releases" target="_blank"><img src="https://img.shields.io/github/downloads/muslayev/icecat-win64/total.svg"></a>
   <a href="https://github.com/muslayev/icecat-win64/issues" target="_blank"><img src="https://img.shields.io/github/issues/muslayev/icecat-win64.svg"></a>
 </p>
