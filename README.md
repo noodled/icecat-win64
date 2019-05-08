@@ -4,6 +4,7 @@
   <a href="https://github.com/muslayev/icecat-win64/releases" target="_blank"><img src="https://img.shields.io/github/release/muslayev/icecat-win64.svg"></a>
   <img src="https://img.shields.io/github/downloads/muslayev/icecat-win64/total.svg">
 </p>
+
 ### Sources
 [GNU FTP](https://ftp.gnu.org/gnu/gnuzilla)<br />
 [Fedora Project FTP](https://src.fedoraproject.org/lookaside/pkgs/icecat/)<br />
