@@ -1,10 +1,9 @@
 # Unofficial IceCat builds for Windows x64 and x86 (Installer + Portable)
 
-![latest version](https://img.shields.io/github/release/muslayev/icecat-win64.svg?style=flat "version")
-![count](https://img.shields.io/github/downloads/muslayev/icecat-win64/total.svg?style=flat "count")
-
-## Download
-[The latest release](https://github.com/muslayev/icecat-win64/releases)<br />
+<p align="center">
+  <a href="https://github.com/muslayev/icecat-win64/releases" target="_blank"><img src="https://img.shields.io/github/release/muslayev/icecat-win64.svg"></a>
+  <img src="https://img.shields.io/github/downloads/muslayev/icecat-win64/total.svg">
+</p>
 ### Sources
 [GNU FTP](https://ftp.gnu.org/gnu/gnuzilla)<br />
 [Fedora Project FTP](https://src.fedoraproject.org/lookaside/pkgs/icecat/)<br />
