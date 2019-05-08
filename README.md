@@ -1,4 +1,8 @@
 # Unofficial IceCat builds for Windows x64 and x86 (Installer + Portable)
+
+![latest version](https://img.shields.io/github/release/muslayev/icecat-win64.svg?style=flat "version")
+![count](https://img.shields.io/github/downloads/muslayev/icecat-win64/total.svg?style=flat "count")
+
 ## Download
 [The latest release](https://github.com/muslayev/icecat-win64/releases)<br />
 ### Sources
