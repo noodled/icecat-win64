@@ -20,6 +20,10 @@ To check and download the latest version, use menu `Tools > [GIT Releases] Downl
 ![screenshot](https://raw.githubusercontent.com/muslayev/iceweasel-win64/master/misc/update_menu.png)
 ### Portable
 Launcher `start.exe` is created in [Bat To Exe Converter](http://www.f2ko.de/en/b2e.php). Some antiviruses may react on it.
+
+### Faq
+How to install some ["corrupted" extensions](https://github.com/muslayev/icecat-win64/issues/13#issuecomment-498640205).
+
 ### Chocolatey package manager
 Available [here](https://chocolatey.org/packages/icecat).
 ## Iceweasel
