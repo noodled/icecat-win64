@@ -22,8 +22,8 @@ To check and download the latest version, use menu `Tools > [GIT Releases] Downl
 Launcher `start.exe` is created in [Bat To Exe Converter](http://www.f2ko.de/en/b2e.php). Some antiviruses may react on it.
 
 ### Faq
-How to install some ["corrupted" extensions](https://github.com/muslayev/icecat-win64/issues/13#issuecomment-498640205).
-Is [fixed](https://github.com/muslayev/icecat-win64/issues/16)
+~How to install some ["corrupted" extensions](https://github.com/muslayev/icecat-win64/issues/13#issuecomment-498640205).~<br />
+Is [fixed](https://github.com/muslayev/icecat-win64/issues/16).
 
 ### Chocolatey package manager
 Available [here](https://chocolatey.org/packages/icecat).
