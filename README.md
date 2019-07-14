@@ -17,7 +17,7 @@
 [Fedora Package Sources](https://src.fedoraproject.org/rpms/icecat/)<br />
 ### Installer
 To check and download the latest version, use menu `Tools > [GIT Releases] Download the latest version`
-![screenshot](https://raw.githubusercontent.com/muslayev/iceweasel-win64/master/misc/update_menu.png)
+![screenshot](https://raw.githubusercontent.com/muslayev/iceweasel-win64/master/update_menu.png)
 ### Portable
 Launcher `start.exe` is created in [Bat To Exe Converter](http://www.f2ko.de/en/b2e.php). Some antiviruses may react on it.
 
