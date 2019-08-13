@@ -29,3 +29,6 @@ Is [fixed](https://github.com/muslayev/icecat-win64/issues/16).
 Available [here](https://chocolatey.org/packages/icecat).
 ## Iceweasel
 Also, you can try [Iceweasel with privacy settings](https://github.com/muslayev/iceweasel-win64).
+
+## Lolifox
+[Lolifox for win64](https://github.com/muslayev/lolifox-win64).
