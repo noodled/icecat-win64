@@ -20,15 +20,9 @@ To check and download the latest version, use menu `Tools > [GIT Releases] Downl
 ![screenshot](https://raw.githubusercontent.com/muslayev/iceweasel-win64/master/update_menu.png)
 ### Portable
 Launcher `start.exe` is created in [Bat To Exe Converter](http://www.f2ko.de/en/b2e.php). Some antiviruses may react on it.
-
-### Faq
-~How to install some ["corrupted" extensions](https://github.com/muslayev/icecat-win64/issues/13#issuecomment-498640205).~<br />
-Is [fixed](https://github.com/muslayev/icecat-win64/issues/16).
-
 ### Chocolatey package manager
 Available [here](https://chocolatey.org/packages/icecat).
 ## Iceweasel
 Also, you can try [Iceweasel with privacy settings](https://github.com/muslayev/iceweasel-win64).
-
 ## Lolifox
 [Lolifox for win64](https://github.com/muslayev/lolifox-win64).
