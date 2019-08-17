@@ -7,7 +7,7 @@
 
 # Unofficial IceCat builds for Windows x64 (Installer + Portable)
 ### Download
-[The latest release](https://github.com/muslayev/icecat-win64/releases)<br />
+[The latest version](https://github.com/muslayev/icecat-win64/releases)<br />
 ### Changes
 - Own build [options](https://github.com/muslayev/iceweasel-win64/blob/master/src/mozconfig)
 - Update [extension](https://github.com/muslayev/iceweasel-win64/tree/master/src/browser/extensions)
