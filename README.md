@@ -14,7 +14,7 @@
 ### Sources
 [GNU FTP](https://ftp.gnu.org/gnu/gnuzilla)<br />
 [Fedora Project FTP](https://src.fedoraproject.org/lookaside/pkgs/icecat/)<br />
-[Fedora Package Sources](https://src.fedoraproject.org/rpms/icecat/)<br />, thanks to [Sagitter](https://fedoraproject.org/wiki/User:Sagitter)
+[Fedora Package Sources](https://src.fedoraproject.org/rpms/icecat/), thanks to [Sagitter](https://fedoraproject.org/wiki/User:Sagitter)<br />
 ### Installer
 To check and download the latest version, use menu `Tools > [GIT Releases] Download the latest version`
 ![screenshot](https://raw.githubusercontent.com/muslayev/iceweasel-win64/master/update_menu.png)
