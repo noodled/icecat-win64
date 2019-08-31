@@ -26,6 +26,4 @@ Launcher `start.exe` is created in [Bat To Exe Converter](http://www.f2ko.de/en/
 ### Chocolatey package manager
 Available [here](https://chocolatey.org/packages/icecat).
 ## Iceweasel
-Also, you can try [Iceweasel with privacy settings](https://github.com/muslayev/iceweasel-win64).
-## Lolifox
-[Lolifox for win64](https://github.com/muslayev/lolifox-win64).
+Try [Iceweasel with privacy settings](https://github.com/muslayev/iceweasel-win64).
