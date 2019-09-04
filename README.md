@@ -4,10 +4,6 @@
   <a href="https://github.com/muslayev/icecat-win64/releases/latest" target="_blank"><img src="https://img.shields.io/github/downloads/muslayev/icecat-win64/latest/total.svg"></a>
   <a href="https://github.com/muslayev/icecat-win64/releases" target="_blank"><img src="https://img.shields.io/github/downloads/muslayev/icecat-win64/total.svg"></a>
 </p>
-
-## **2019.08.23** - Installer for 68.0.2 is fixed. ⚡⚡⚡
-
-
 # Unofficial IceCat builds for Windows x64 (Installer + Portable)
 ### Download
 [The latest version](https://github.com/muslayev/icecat-win64/releases)<br />
