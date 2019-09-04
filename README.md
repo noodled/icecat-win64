@@ -4,6 +4,7 @@
   <a href="https://github.com/muslayev/icecat-win64/releases/latest" target="_blank"><img src="https://img.shields.io/github/downloads/muslayev/icecat-win64/latest/total.svg"></a>
   <a href="https://github.com/muslayev/icecat-win64/releases" target="_blank"><img src="https://img.shields.io/github/downloads/muslayev/icecat-win64/total.svg"></a>
 </p>
+
 # Unofficial IceCat builds for Windows x64 (Installer + Portable)
 ### Download
 [The latest version](https://github.com/muslayev/icecat-win64/releases)<br />
