@@ -9,8 +9,8 @@
 ### Download
 [The latest version](https://github.com/muslayev/icecat-win64/releases)<br />
 ### Changes
-- Own build [options](https://github.com/muslayev/iceweasel-win64/blob/master/src/mozconfig)
-- Update [extension](https://github.com/muslayev/iceweasel-win64/tree/master/src/browser/extensions)
+- Own build [options](https://github.com/muslayev/iceweasel-win64/blob/master/mozconfig)
+- Update extension
 ### Sources
 [GNU FTP](https://ftp.gnu.org/gnu/gnuzilla)<br />
 [Fedora Project FTP](https://src.fedoraproject.org/lookaside/pkgs/icecat/)<br />
