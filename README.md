@@ -9,7 +9,7 @@
 ### Download
 [The latest version](https://github.com/muslayev/icecat-win64/releases)<br />
 ### Changes
-- Own build [options](https://github.com/muslayev/iceweasel-win64/blob/master/mozconfig)
+- Own build [options](https://github.com/muslayev/iceweasel-win64/blob/master/moz.config)
 - Update extension
 ### Sources
 [GNU FTP](https://ftp.gnu.org/gnu/gnuzilla)<br />
